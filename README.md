@@ -15,10 +15,8 @@ A video for using "Screenshot To Code GPT" is used below:
 
 [![Video recording for Screenshot To Code GPT]
 (image/screen2code.png)]
-(https://www.youtube.com/watch?v=G3Cytlicv8Y)
+(https://github.com/lilyyy01/screenshot_to_code_tutorial/assets/145510012/9a8514d6-e5e5-423f-9368-336715361f0d)
 
-
-[Learn about video](https://www.youtube.com/watch?v=G3Cytlicv8Y)
 
 
 <video loop src="[movie.mp4](https://www.youtube.com/watch?v=G3Cytlicv8Y)">  video </video> 
@@ -44,5 +42,5 @@ A video for using "Vercel V0" is used below:
 
 [![Video recording for Vercel v0]
 (movie/v0.png)]
-(movie/vercel_v0.mp4)
+(https://github.com/lilyyy01/screenshot_to_code_tutorial/assets/145510012/bddce5f5-c8a1-425a-b905-20097f3364ff)
 
