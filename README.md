@@ -17,7 +17,8 @@ A video for using "Screenshot To Code GPT" is used below:
 (image/screen2code.png)]
 (https://www.youtube.com/watch?v=G3Cytlicv8Y)
 
- <video loop src="[movie.mp4](https://www.youtube.com/watch?v=G3Cytlicv8Y)">  video </video> 
+
+<video loop src="[movie.mp4](https://www.youtube.com/watch?v=G3Cytlicv8Y)">  video </video> 
 
 
 ## Method 2: Use Vercel V0 to build React/NextJS frontend
