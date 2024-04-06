@@ -18,6 +18,9 @@ A video for using "Screenshot To Code GPT" is used below:
 (https://www.youtube.com/watch?v=G3Cytlicv8Y)
 
 
+[Learn about video](https://www.youtube.com/watch?v=G3Cytlicv8Y)
+
+
 <video loop src="[movie.mp4](https://www.youtube.com/watch?v=G3Cytlicv8Y)">  video </video> 
 
 
