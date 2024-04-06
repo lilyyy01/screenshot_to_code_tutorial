@@ -14,7 +14,8 @@ If you have GPT-4 access, it is very likely you can access GPT Store (GPTs). Her
 A video for using "Screenshot To Code GPT" is used below:
 
 [![Video recording for Screenshot To Code GPT]
-(image/screen2code.png)](movie/GPTs_screen2code.mp4)
+(image/screen2code.png)]
+(https://www.youtube.com/watch?v=G3Cytlicv8Y)
 
 
 ## Method 2: Use Vercel V0 to build React/NextJS frontend
