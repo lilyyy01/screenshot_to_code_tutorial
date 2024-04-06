@@ -16,10 +16,6 @@ A video for using "Screenshot To Code GPT" is used below:
 ![Video recording for Screenshot To Code GPT](https://github.com/lilyyy01/screenshot_to_code_tutorial/assets/145510012/9a8514d6-e5e5-423f-9368-336715361f0d)
 
 
-
-<video loop src="[movie.mp4](https://www.youtube.com/watch?v=G3Cytlicv8Y)">  video </video> 
-
-
 ## Method 2: Use Vercel V0 to build React/NextJS frontend
 Vercel, the creator of NestJS, also provides an AI tool for you to convert website screenshot to frontend code in React.
 
