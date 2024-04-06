@@ -13,8 +13,7 @@ If you have GPT-4 access, it is very likely you can access GPT Store (GPTs). Her
 
 A video for using "Screenshot To Code GPT" is used below:
 
-[![Video recording for Screenshot To Code GPT]
-(image/screen2code.png)]
+![Video recording for Screenshot To Code GPT]
 (https://github.com/lilyyy01/screenshot_to_code_tutorial/assets/145510012/9a8514d6-e5e5-423f-9368-336715361f0d)
 
 
@@ -40,7 +39,6 @@ Here are the major steps:
 
 A video for using "Vercel V0" is used below:
 
-[![Video recording for Vercel v0]
-(movie/v0.png)]
+![Video recording for Vercel v0]
 (https://github.com/lilyyy01/screenshot_to_code_tutorial/assets/145510012/bddce5f5-c8a1-425a-b905-20097f3364ff)
 
