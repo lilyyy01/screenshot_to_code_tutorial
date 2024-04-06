@@ -1,0 +1,4 @@
+Host github-lily
+  HostName github.com
+  IdentityFile ~/.ssh/id_ed25519_yuening
+  IdentitiesOnly yes
